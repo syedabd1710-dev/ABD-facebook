@@ -347,6 +347,7 @@ height:  10.7%;
     border: none;
     outline: none;
      background-color: rgb(255, 255, 255);
+     border-radius:10px ;
 }
 .like-btn:hover{
     background-color: rgba(211, 211, 211, 0.444) ;
